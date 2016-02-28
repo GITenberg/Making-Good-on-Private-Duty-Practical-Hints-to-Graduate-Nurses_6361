@@ -1,0 +1,21 @@
+_repo: Making-Good-on-Private-Duty-Practical-Hints-to-Graduate-Nurses_6361
+creator:
+  author:
+    agent_name: Lounsbery, Harriet Camp
+    gutenberg_agent_id: '2014'
+    url: http://www.gutenberg.org/2009/agents/2014
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6361'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Private duty nursing'
+- !lcc 'RT'
+title: 'Making Good on Private Duty: Practical Hints to Graduate Nurses'
+url: http://www.gutenberg.org/ebooks/6361
